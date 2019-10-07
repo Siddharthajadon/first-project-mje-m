@@ -9,3 +9,4 @@ scanf(" %d",&a);
 printf("no is %d",a);
 getch();
 }
+// here the program ends
